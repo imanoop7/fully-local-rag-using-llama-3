@@ -27,9 +27,6 @@ To get started with this project:
 ## Usage
 The notebooks provide step-by-step instructions on how to create and utilize fully local RAGs using the Phi3 model. Follow along to experiment with image segmentation.
 
-## Contributing
-Contributions are welcome! If you have ideas for improvements or want to add features, please refer to the CONTRIBUTING.md file.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
